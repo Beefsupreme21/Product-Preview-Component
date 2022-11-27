@@ -24,8 +24,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Beefsupreme21/Proudct-Preview-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Beefsupreme21/Proudct-Preview-Component](https://github.com/Beefsupreme21/Proudct-Preview-Component)
+- Live Site URL: [https://beefsupreme21.github.io/Product-Preview-Component/](https://beefsupreme21.github.io/Product-Preview-Component/)
 
 
 ## My process
